@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+groq
+langchain-groq
