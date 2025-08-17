@@ -1,0 +1,16 @@
+CONSULTING BASIC
+Price: ₹8,000
+Scope:
+- One-time advisory call
+- Summary report
+
+CONSULTING PREMIUM
+Price: ₹25,000
+Scope:
+- Multiple advisory sessions
+- Implementation roadmap
+
+CONSULTING ADVANCED
+Price: ₹60,000
+Scope:
+- Dedicated consultant, hands-on implementation

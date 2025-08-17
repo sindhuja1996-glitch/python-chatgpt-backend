@@ -1,0 +1,16 @@
+IMMIGRATION BASIC
+Price: ₹12,000
+Scope:
+- Document checklist
+- Application review
+
+IMMIGRATION PREMIUM
+Price: ₹35,000
+Scope:
+- End-to-end application handling
+- Interview prep
+
+IMMIGRATION ADVANCED
+Price: ₹60,000
+Scope:
+- Legal representation, appeals, priority processing
